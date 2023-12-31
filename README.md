@@ -5,8 +5,9 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Bangladesh
-* 🚀  I'm currently working on [Vocal](http://vocal.email)
+* 🚀  I'm currently working on [Vocal](https://vocal.email) - [Magic Heidi](https://magicheidi.ch) - [Nat.app](https://nat.app)
 * 🤝  I'm open to collaborating on projects
+
 
 ### Skills
 
