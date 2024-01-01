@@ -34,11 +34,11 @@ Software Engineer
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dapotatoman&show_icons=true&hide=&include_all_commits=true&count_private=true&show=prs_merged_percentage&title_color=14b8a6&text_color=999999&icon_color=64748b&bg_color=000&hide_border=true&show_icons=true" alt="dapotatoman's GitHub stats" />
+      <img src="https://potato-stats.vercel.app/api?username=dapotatoman&show_icons=true&hide=&include_all_commits=true&count_private=true&show=prs_merged_percentage&title_color=14b8a6&text_color=999999&icon_color=64748b&bg_color=000&hide_border=true&show_icons=true" alt="dapotatoman's GitHub stats" />
     </td>
     <!-- GitHub Top Language Card -->
     <td align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapotatoman&langs_count=6&layout=compact&bg_color=000&text_color=999999&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+      <img height="200" src="https://potato-stats.vercel.app/api/top-langs/?username=dapotatoman&langs_count=6&layout=compact&bg_color=000&text_color=999999&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
     </td>
   </tr>
 
