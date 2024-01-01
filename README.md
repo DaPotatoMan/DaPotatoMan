@@ -27,18 +27,18 @@ Software Engineer
 <table cellpadding="0" border="0">
   <tr style="padding: 0">
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapotatoman&stroke=ffffff&background=000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapotatoman&stroke=999999&background=000&ring=55b881&fire=55b881&currStreakNum=ffffff&currStreakLabel=55b881&sideNums=ffffff&sideLabels=999999&dates=757575&hide_border=true" />
     </td>
   </tr>
 
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td align="center">
-      <img src="https://potato-stats.vercel.app/api?username=dapotatoman&show_icons=true&hide=&include_all_commits=true&count_private=true&show=prs_merged_percentage&title_color=14b8a6&text_color=999999&icon_color=64748b&bg_color=000&hide_border=true&show_icons=true" alt="dapotatoman's GitHub stats" />
+      <img src="https://potato-stats.vercel.app/api?username=dapotatoman&show_icons=true&hide=&include_all_commits=true&count_private=true&show=prs_merged_percentage&title_color=fff&text_color=999999&icon_color=64748b&bg_color=000&hide_border=true&show_icons=true" alt="dapotatoman's GitHub stats" />
     </td>
     <!-- GitHub Top Language Card -->
     <td align="center">
-      <img height="200" src="https://potato-stats.vercel.app/api/top-langs/?username=dapotatoman&langs_count=6&layout=compact&bg_color=000&text_color=999999&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+      <img height="200" src="https://potato-stats.vercel.app/api/top-langs/?username=dapotatoman&langs_count=6&layout=compact&bg_color=000&text_color=999999&title_color=fff&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
     </td>
   </tr>
 
